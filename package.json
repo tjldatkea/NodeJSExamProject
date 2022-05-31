@@ -1,0 +1,23 @@
+{
+  "name": "nodejsexamproject",
+  "version": "1.0.0",
+  "description": "My Exam Project for the NodeJS Elective",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjldatkea/NodeJSExamProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjldatkea/NodeJSExamProject/issues"
+  },
+  "homepage": "https://github.com/tjldatkea/NodeJSExamProject#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
